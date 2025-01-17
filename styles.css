@@ -64,6 +64,10 @@ a{
     margin-right: 52px;
     margin-left: 5px;
     }
+.bx bxl-whatsapp, .bx bxl-facebook{
+  margin-top: 20px;
+  display: inline;
+}
 .declaration{
       background-color: rgb(218, 56, 16);
       text-align: center;

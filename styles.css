@@ -63,6 +63,7 @@ hr{
 a{
     margin-right: 52px;
     margin-left: 5px;
+    display: inline;
     }
 .bx bxl-whatsapp, .bx bxl-facebook{
   margin-top: 20px;
